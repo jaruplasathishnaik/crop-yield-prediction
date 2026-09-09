@@ -168,7 +168,9 @@ Because the current dataset is synthetic, predictions do not represent validated
 
 **Your Name**
 
-- GitHub: `https://github.com/YOUR-USERNAME`
+- GitHub: jaruplasathishnaik
+-Linkedin:[Sathish Naik Jarupla]
+ [(https://www.linkedin.com/in/sathish-naik-jarupla/)] 
 
 Replace the author information with your own details before publishing.
 
