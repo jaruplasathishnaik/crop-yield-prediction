@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction Using Machine Learning.
+# 🌾 Crop Yield Prediction .
 
 A machine learning web application built with **Python, Scikit-learn, Pandas, NumPy, Matplotlib, and Streamlit** to predict crop yield from agricultural, weather, and soil-related features.
 
